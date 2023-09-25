@@ -8,4 +8,5 @@ content =>"
 	host*
 	IdentifyFile ~/.ssh/school
 	PassworddAuthentication no
+	",
 }
